@@ -1,0 +1,7 @@
+.idea/
+build/
+logs/
+config/
+test_*.xml
+*.plantuml
+~$*
